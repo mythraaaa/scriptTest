@@ -50,11 +50,11 @@ public class Test : MonoBehaviour
             // Bossクラスの変数を宣言してインスタンスを代入
             Boss lastboss = new Boss();
 
-            // 魔法用の関数を呼び出す
-            lastboss.Magic();
+
         for(int i = 0; i < 11; i++)
         {
-
+            // 魔法用の関数を呼び出す
+            lastboss.Magic();
         }
     }
         // Update is called once per frame
