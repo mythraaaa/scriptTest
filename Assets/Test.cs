@@ -52,7 +52,7 @@ public class Test : MonoBehaviour
 
             // –‚–@—p‚ÌŠÖ”‚ğŒÄ‚Ño‚·
             lastboss.Magic();
-        for(int mp = 53; mp < 10; mp = - 5)
+        for(int i = 0; i < 11; i++)
         {
 
         }
