@@ -52,9 +52,9 @@ public class Test : MonoBehaviour
 
             // –‚–@—p‚ÌŠÖ”‚ğŒÄ‚Ño‚·
             lastboss.Magic();
-        for(int mp = 0; mp < 11; mp++)
+        for(int mp = 53; mp < 10; mp = - 5)
         {
-            Debug.Log(mp);
+
         }
     }
         // Update is called once per frame
